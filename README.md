@@ -35,9 +35,6 @@ print('connection closed')
 ### Server:
 
 ```
-NAME : PRIYANKA K
-REG.NO.: 212223230162
-
 import socket                    
 port = 60000                    
 s = socket.socket()              
